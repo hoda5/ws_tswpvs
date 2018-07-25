@@ -6,6 +6,6 @@
  */
 export function soma(a: number, b: number): number {
     const resultado = a + b;
-    const teste = ["testekjdfljas", resultado];
+    const teste = ["result", resultado];
     return resultado + teste.length;
   }
