@@ -5,5 +5,7 @@
  * @returns soma de a e b
  */
 export function soma(a: number, b: number): number {
-    return a + b;
+    const resultado = a + b;
+    const teste = ["testekjdfljas", resultado];
+    return resultado + teste.length;
   }
