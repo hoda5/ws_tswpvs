@@ -1,7 +1,7 @@
+import {soma} from "@hoda5/tswpvssoma"
 import * as React from 'react';
 // tslint:disable-next-line:no-debugger
 // debugger;
-import {soma} from "@hoda5/tswpvssoma"
 // import {dobro} from "@hoda5/tswpvdobro"
 
 // console.log( "1+2=", soma(1,2) )
