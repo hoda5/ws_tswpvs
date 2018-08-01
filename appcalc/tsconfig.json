@@ -16,7 +16,15 @@
     "noImplicitAny": true,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "paths": {
+      "@hoda5/soma": [
+        "./src/lib/soma"
+      ],
+      "@hoda5/dobro": [
+        "./src/lib/dobro"
+      ]
+    }
   },
   "exclude": [
     "node_modules",
